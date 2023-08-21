@@ -1,0 +1,29 @@
+.form-container {
+  width: 320px;
+  border-radius: 0.75rem;
+  background-color:var(--color-primary);
+  box-shadow: 0 0 16px 0 var(--color-secondary);
+  padding: 2rem;
+  color: var(--color-grey-light);
+}
+
+.title {
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 700;
+}
+
+.form {
+  margin-top: 1.2rem;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.buttons button {
+   margin:5px
+}

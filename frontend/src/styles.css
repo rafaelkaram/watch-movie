@@ -1,0 +1,18 @@
+:root {
+  --color-primary:#111827;
+  --color-secondary:#a78bfa;
+  --color-secondary-dark: #806ac1;
+  --color-grey-dark:#374151;
+  --color-grey-light:#f3f4f6;
+  --color-grey-light-2:#9ca3af;
+}
+
+html {
+  font-family:'Roboto';
+  background-image: radial-gradient(circle, #142241, #121e36, #10192b, #0f1521, #0b0f17);
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}

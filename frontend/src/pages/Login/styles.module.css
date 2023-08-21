@@ -1,0 +1,14 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.notification {
+  fill: #EF665B;
+  display: flex;
+  align-items: center;
+  gap:5px;
+}
